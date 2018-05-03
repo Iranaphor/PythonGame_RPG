@@ -1,0 +1,45 @@
+0
+1
+0
+Cave Entrance
+0
+1
+1
+1
+100
+0
+3
+6
+1
+2
+3
+Fist
+Torch
+Sword
+
+
+*Equipped*
+Stick      
+Stone      
+Crab Shell 
+Seaweed    
+Bat Corpse 
+Bat Bones  
+36
+5
+22
+102
+25
+31
+Strength Potion    
+2
+Fish Pie         
+Glowing Lobster  
+5
+1
+Bread 
+Pie   
+Butter
+6
+4
+3

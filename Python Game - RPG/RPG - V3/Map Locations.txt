@@ -1,0 +1,51 @@
+locationName = [
+
+00. "Square", 
+01. "Town Hall", 
+02. "Cave Entrance", 
+03. "Caves Ladder Room", 
+04. "Forest Entrance", 
+05. "Forest", 
+06. "Beach", 
+07. "Sea", 
+08. "Town Bank", 
+09. "Cave Tunnels Entrance", 
+10. "Coast", 
+11. "Deep Tunnels", 
+12. "Seafront Shops", 
+13. "Oceanic Bridge"
+]
+14. "Underground River"
+15. "Forest Cliff Face"
+16. "Deep Forest"
+17. "Western Swamplands"
+18. "Oceanic Bridge Crossing"
+19. "Seafront Coast"
+]
+-20. "Broken Oceanic Bridge Path"
+-21. "Western Deep Waters"
+-22. "Beach End"
+-23. "Oceanic Bridge Sea Ramp"
+-24. "Rocky Coast"
+-25. "Far Western Deepwaters"
+]
+26. "Field Plains"
+27. "Forest Village"
+28. "Dark Forst Chasm"
+29. "Oceanic Bridge Split"
+-30. "Swamplands"
+-31. "Eastern Swamplands"
+]
+32 Western mountains
+36 Eastern mountains
+40 Northern mountains
+44 Southern mountains 
+48 Volcano
+54 Volcanic peak
+56 Magma fields
+68 City limits
+74 City Gates
+75 City Suburbs
+80 City centre
+84 Castle Entrance
+

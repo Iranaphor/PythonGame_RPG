@@ -1,0 +1,58 @@
+def Location_BackOfTownHall():
+    print()
+    print("       #########################")
+    print("       #                       #       Town Hall (S)")
+    print("       #                       #")
+    print("       #                       #")
+    print("       #                       #")
+    print("       #                       #")
+    print("       #                       #")
+    print("       #                       #")
+    print("       #                       #")
+    print("       #                       #")
+    print("       #                       #")
+    print("       #                       #")
+    print("       ##########  S  ##########")
+    print()
+
+
+def Location_ForestEntrance():
+    print()
+    print("       #########################")
+    print("       #                       #       Forest       (E)")
+    print("       #                       #")
+    print("       #                       #       Town Square  (W)")
+    print("       #                       #")
+    print("                                ")
+    print("       W                       E")
+    print("                                ")
+    print("       #                       #")
+    print("       #                       #")
+    print("       #                       #")
+    print("       #                       #")
+    print("       #########################")
+    print()
+    print("       What way would you like to go? ")
+
+
+def Location_Forest2():
+    print()
+    print("       ##########  N  ##########")
+    print("       #                       #       Forest  (N)")
+    print("       #                       #")
+    print("       #                       #       Forest  (E)")
+    print("       #                       #")
+    print("                                       Forest  (S)")
+    print("       W                       E")
+    print("                                       Forest  (W)")
+    print("       #                       #")
+    print("       #                       #")
+    print("       #                       #")
+    print("       #                       #")
+    print("       ##########  S  ##########")
+    print()
+    print("       What way would you like to go? ")
+    if (choice = "N")
+        
+    else:
+        choice = ""

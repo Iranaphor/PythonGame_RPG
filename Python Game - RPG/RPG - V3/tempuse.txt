@@ -1,0 +1,19 @@
+6
+Stick      
+Stone      
+Crab Shell 
+Seaweed    
+Bat Corpse 
+Bat Bones  
+
+36
+5
+22
+102
+25
+31
+1
+0
+1
+40
+38
