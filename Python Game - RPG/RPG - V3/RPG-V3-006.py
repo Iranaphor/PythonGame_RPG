@@ -241,6 +241,9 @@ currentTaskCompletion = ""
 
 
 #LV 1
+
+
+
 lp1ap40 = " █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████"
 lp1ap39 = " █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████"
 lp1ap38 = " █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████"
@@ -1008,6 +1011,10 @@ def seaView():
 LP1lineList = (lp1ap40, lp1ap39, lp1ap38, lp1ap37, lp1ap36, lp1ap35, lp1ap34, lp1ap33, lp1ap32, lp1ap31, lp1ap30, lp1ap29, lp1ap28, lp1ap27, lp1ap26, lp1ap25, lp1ap24, lp1ap23, lp1ap22, lp1ap21, lp1ap20, lp1ap19, lp1ap18, lp1ap17, lp1ap16, lp1ap15, lp1ap14, lp1ap13, lp1ap12, lp1ap11, lp1ap10, lp1ap09, lp1ap08, lp1ap07, lp1ap06, lp1ap05, lp1ap04, lp1ap03, lp1ap02, lp1ap01, lp1ac00, lp1an01, lp1an02, lp1an03, lp1an04, lp1an05, lp1an06, lp1an07, lp1an08, lp1an09, lp1an10, lp1an11, lp1an12, lp1an13, lp1an14, lp1an15, lp1an16, lp1an17, lp1an18, lp1an19, lp1an21, lp1an22, lp1an23, lp1an24, lp1an25, lp1an26, lp1an27, lp1an28, lp1an29, lp1an30, lp1an31, lp1an32, lp1an33, lp1an34, lp1an35, lp1an36, lp1an37, lp1an38, lp1an39, lp1an40, lp1an41, lp1an42, lp1an43, lp1an44)
 LV0lineList = (ap40, ap39, ap38, ap37, ap36, ap35, ap34, ap33, ap32, ap31, ap30, ap29, ap28, ap27, ap26, ap25, ap24, ap23, ap22, ap21, ap20, ap19, ap18, ap17, ap16, ap15, ap14, ap13, ap12, ap11, ap10, ap09, ap08, ap07, ap06, ap05, ap04, ap03, ap02, ap01, ac00, an01, an02, an03, an04, an05, an06, an07, an08, an09, an10, an11, an12, an13, an14, an15, an16, an17, an18, an19, an21, an22, an23, an24, an25, an26, an27, an28, an29, an30, an31, an32, an33, an34, an35, an36, an37, an38, an39, an40, an41, an42, an43, an44)
 LM1lineList = (lm1ap40, lm1ap39, lm1ap38, lm1ap37, lm1ap36, lm1ap35, lm1ap34, lm1ap33, lm1ap32, lm1ap31, lm1ap30, lm1ap29, lm1ap28, lm1ap27, lm1ap26, lm1ap25, lm1ap24, lm1ap23, lm1ap22, lm1ap21, lm1ap20, lm1ap19, lm1ap18, lm1ap17, lm1ap16, lm1ap15, lm1ap14, lm1ap13, lm1ap12, lm1ap11, lm1ap10, lm1ap09, lm1ap08, lm1ap07, lm1ap06, lm1ap05, lm1ap04, lm1ap03, lm1ap02, lm1ap01, lm1ac00, lm1an01, lm1an02, lm1an03, lm1an04, lm1an05, lm1an06, lm1an07, lm1an08, lm1an09, lm1an10, lm1an11, lm1an12, lm1an13, lm1an14, lm1an15, lm1an16, lm1an17, lm1an18, lm1an19, lm1an21, lm1an22, lm1an23, lm1an24, lm1an25, lm1an26, lm1an27, lm1an28, lm1an29, lm1an30, lm1an31, lm1an32, lm1an33, lm1an34, lm1an35, lm1an36, lm1an37, lm1an38, lm1an39, lm1an40, lm1an41, lm1an42, lm1an43, lm1an44)
+
+
+
+
 
 
 a = True
